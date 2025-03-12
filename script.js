@@ -9,10 +9,13 @@ function getRecommendation() {
     let products = [
       { category: "electronics", name: "Smartphones", url: "https://example.com/smartphone" },
       { category: "electronics", name: "Laptops", url: "https://example.com/laptop" },
+      { category: "electronics", name: "Tablets", url: "https://electroshop.com/tablets" },
       { category: "clothing", name: "T-shirts", url: "https://example.com/tshirt" },
       { category: "clothing", name: "Jackets", url: "https://example.com/jacket" },
+      { category: "clothing", name: "Jeans", url: "https://fashionhub.com/jeans" },
       { category: "books", name: "Novel Books", url: "https://example.com/novel" },
-      { category: "books", name: "Comic Books", url: "https://example.com/comic" }
+      { category: "books", name: "Comic Books", url: "https://example.com/comic" },
+      {category: "books", name: "Science Books", url: "https://bookstore.com/science-books" }
     ];
   
   
